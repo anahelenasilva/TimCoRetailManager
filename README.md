@@ -1,2 +1,2 @@
-# TimCoRetailManager
-A retail management system built by TimCo Enterprise Solutions (TimCorey YouTube Retail Manager Videos)
+# TimCo Retail Manager
+A retail management system built by TimCo Enterprise Solutions
